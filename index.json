@@ -39,6 +39,11 @@
       "action": "https://iqlvlzero.github.io/CRASHING/"
     },
     {
+      "type": "button",
+      "label": "Music Thoughts",
+      "action": "https://iqlvlzero.github.io/MusicReview/"
+    },
+    {
       "type": "image",
       "width": 7,
       "height": 7,
