@@ -1,0 +1,49 @@
+{
+  "format": "particle",
+  "title": "Dumbest Blog for Dummies",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "*Welcome to my Shitty Blog!*",
+      "style": {
+        "text-align": "center",
+        "margin-bottom": 30
+      }
+    },
+    {
+      "type": "list",
+      "items": [
+        "Hi! I'm IQlvlZero and here's a bit about me",
+        "I'm a music creator (when I feel like it)",
+        "I play too many video games",
+        "I'm nonbinary - I use they/them pronouns",
+        "And I hated every second of making this site!",
+        "Insta: iqlvlz3r0",
+        "YT: IQlvlZero",
+        "Discord: iqlvlzero"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "NOW, in the ultimate bout of Extreme Laziness, I will not be putting any buttons on this site as that would take too much work.\nI've been working on the same damn song for months now, but all my creative juices are dying.\nSo I've been hoping that I can just make it work out in the end...\nbut I don't think I will be.\n ALSO I STRUGGLE WITH THIS WHOLE CODING THIS SO IF YOU CAN HELP ME PLEASE DO",
+      "style": {
+        "text-align": "center",
+        "margin-bottom": 30
+      }
+    },
+    {
+      "type": "button",
+      "label": "Useless",
+      "action": "https://iqlvlzero.github.io/CRASHING/"
+    },
+    {
+      "type": "image",
+      "width": 7,
+      "height": 7,
+      "pixels": "011011 G G G 011111 00111 0001",
+      "style": {
+        "scale": 3
+      }
+    }
+  ]
+}
