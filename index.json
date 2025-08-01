@@ -53,12 +53,19 @@
     },
     {
       "type": "reel",
-      "width": 16,
+      "width": 64,
       "height": 16,
       "frames": [
-        "p cCdCc bAcAbAcAb aAeBeAa aAlAa aAlAa aAcBbBcAa aAcFcAa aAdDdAa bAdBdAb cAhAc dAfAd eAdAe fAbAf gBg p",
-        "p cCdCc bAcAbAcAb aAbAbBbAbAa aAaAaAdAaAaAa aAaAbDbAaAa aAaAhAaAa aAaAhAaAa aAbAfAbAa bAbAdAbAb cAbAbAbAc dAbBbAd eAdAe fAbAf gBg p",
-        "p cCdCc bAcAbAcAb aAeBeAa aAlAa aAlAa aAlAa aAlAa aAlAa bAjAb cAhAc dAfAd eAdAe fAbAf gBg p"
+        "gCyyd fByyf dCfByx bBbAdCaAyw bAcAcAeAyv fAcAfAyu fAcAfByt fAbAhAyt fAbAdAcAyt fAbAeBaAyt fAbAfByu fAcCdAyu fFdAaAyt eBeEbAys cBnAys bAqAyr",
+        "gCyyd fBlAkAyf dCfBeAkAyf bBbAdCaAdAkAyf bAcAcAeAcAkAyf fAcAfAbAhAbAyf fAcAfBaAcAdAbAyf fAbAhAaAcAcAbAyg fAbAdAcAaAcAcAbAyg fAbAeBaAaAcAaBcAyg fAbAfBcAbAaAyl fAcCdAcAbAaAyl fFdAaAbAbBdAyh eBeEbAeAdAyh cBnAjAyh bAqAyr",
+        "gCygAu fBlAkAfDu dCfBeAkAcCbAv bBbAdCaAdAkAaBdAw bAcAcAeAcAkAfAcCr fAcAfAbAhAbAeAcAaAs fAcAfBaAcAdAbAeAbCt fAbAhAaAcAcAbAdBbCu fAbAdAcAaAcAcAbAdAcAw fAbAeBaAaAcAaBcAcAbCw fAbAfBcAbAaAdAcAaAbAw fAcCdAcAbAaAdAbCdAdAq fFdAaAbAbBdAbBgDr eBeEbAeAdAyh cBnAjAyh bAqAyr",
+        "gCygAu fBlAkAfDu dCfBeAkAcCbAkCh bBbAdCaAdAkAaBdAhAaBbAbBd bAcAcAeAcAkAfAcCbAbAdBbBb fAcAfAbAhAbAeAcAaAcCeAdAb fAcAfBaAcAdAbAeAbCdBeAeAb fAbAhAaAcAcAbAdBbCeAfAeAb fAbAdAcAaAcAcAbAdAcAgAfAeAb fAbAeBaAaAcAaBcAcAbCgAfAeAb fAbAfBcAbAaAdAcAaAbAgAfAdAc fAcCdAcAbAaAdAbCdAdAaAfFc fFdAaAbAbBdAbBgDbAo eBeEbAeAdAyh cBnAjAyh bAqAyr",
+        "aBdCygAu bAcBlAkAfDu cDfBeAkAcCbAkCh bBbAdCaAdAkAaBdAhAaBbAbBd bBbAcAeAcAkAfAcCbAbAdBbBb bBbAcAfAbAhAbAeAcAaAcCeAdAb dAaAcAfBaAcAdAbAeAbCdBeAeAb dAaAbAhAaAcAcAbAdBbCeAfAeAb dAaAbAdAcAaAcAcAbAdAcAgAfAeAb dAaAbAeBaAaAcAaBcAcAbCgAfAeAb dAaAbAfBcAbAaAdAcAaAbAgAfAdAc dAaAcCdAcAbAaAdAbCdAdAaAfFc cAbFdAaAbAbBdAbBgDbAo dCeEbAeAdAyh cBnAjAyh bBpAyr",
+        "jByeAu kAhAkAfDu jAbBeAkAcCbAkCh jDaAdAkAaBdAhAaBbAbBd iBeAcAkAfAcCbAbAdBbBb kBdAbAhAbAeAcAaAcCeAdAb lAdBaAcAdAbAeAbCdBeAeAb lAeAaAcAcAbAdBbCeAfAeAb kAbAcAaAcAcAbAdAcAgAfAeAb kAcBaAaAcAaBcAcAbCgAfAeAb jAeBcAbAaAdAcAaAbAgAfAdAc jCdAcAbAaAdAbCdAdAaAfFc jBdAaAbAbBdAbBgDbAo kFbAeAdAyh kAgAjAyh kAhAyr",
+        "qBwAu sBkAfDu sBkAcCbAkCh sBkAaBdAhAaBbAbBd tAkAfAcCbAbAdBbBb sBhAbAeAcAaAcCeAdAb rAaAcAdAbAeAbCdBeAeAb rAaAcAcAbAdBbCeAfAeAb sBcAcAbAdAcAgAfAeAb uBaAaBcAcAbCgAfAeAb vAaAaAdAcAaAbAgAfAdAc wBaAdAbCdAdAaAfFc vAaBdAbBgDbAo tBcAdAyh tAiAyh sAys",
+        "ykCcAu ylAaDu ylBbAkCh ylAbAhAaBbAbBd ykAbAcCbAbAdBbBb ykAaAcAaAcCeAdAb ykAaAbCdBeAeAb ykBbCeAfAeAb ykAcAgAfAeAb ykEgAfAeAb ymAaAgAfAdAc ymAbAdAaAfFc ymAcDbAo ylAya ykBya yjAyc",
+        "yybAk yybAk yycCh yycAaAbBd yycAbBbBb yycAbAdAb yyaBbAeAb yyaAcAeAb yyaAcAeAb yyaAcAeAb yyaAcAdAc yybAbFc yybAk yybAk yybAk yybAk",
+        "yylB yylAa yylAa yymA yymA yymA yymA yylAa yylAa yylAa yylAa yymA yylAa yykBa yykAb yykAb"
       ],
       "frame-duration": 5
     }
