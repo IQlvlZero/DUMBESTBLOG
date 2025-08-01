@@ -29,6 +29,9 @@
       }
     },
     {
+      "type": "seperator"
+    },
+    {
       "type": "button",
       "label": "Socials",
       "action": "https://iqlvlzero.github.io/SOCIALS/"
@@ -42,6 +45,11 @@
       "type": "button",
       "label": "Music Thoughts",
       "action": "https://iqlvlzero.github.io/MusicReview/"
+    },
+    {
+      "type": "button",
+      "label": "Art",
+      "action": "https://iqlvlzero.github.io/Art/"
     },
     {
       "type": "image",
