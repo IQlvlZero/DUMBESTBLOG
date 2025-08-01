@@ -52,13 +52,14 @@
       "action": "https://iqlvlzero.github.io/Art/"
     },
     {
-      "type": "image",
-      "width": 7,
-      "height": 7,
-      "pixels": "011011 G G G 011111 00111 0001",
-      "style": {
-        "scale": 3
-      }
+      "type": "reel",
+      "width": 16,
+      "height": 16,
+      "frames": [
+        "p cCdCc bAcAbAcAb aAeBeAa aAlAa aAlAa aAcBbBcAa aAcFcAa aAdDdAa bAdBdAb cAhAc dAfAd eAdAe fAbAf gBg p",
+        "p cCdCc bAcAbAcAb aAbAbBbAbAa aAaAaAdAaAaAa aAaAbDbAaAa aAaAhAaAa aAaAhAaAa aAbAfAbAa bAbAdAbAb cAbAbAbAc dAbBbAd eAdAe fAbAf gBg p",
+        "p cCdCc bAcAbAcAb aAeBeAa aAlAa aAlAa aAlAa aAlAa aAlAa bAjAb cAhAc dAfAd eAdAe fAbAf gBg p"
+      ]
     }
   ]
 }
